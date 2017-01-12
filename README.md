@@ -7,4 +7,4 @@ Her ligger det en presentasjon av tema00, med utgangspunkt i forelesningsnotaten
 
 Det ligger to presentasjoner her i tillegg som kun presenterer SQL, jeg anbefaler å lese disse som et supplement til forelesningsnotatene fra Fronter, og ev. bruke pensumboken i tillegg.
 
-Koden i PHP-oppgavefilen her er et løsningsforslag og en forklaring på hvordan vi gjør oppgaven som ligger i PDF-filen "prg1100-ovingsoppgave00.pdf".
+**Koden i PHP-filen her er et løsningsforslag og en forklaring på hvordan vi gjør oppgaven som ligger i PDF-filen "prg1100-ovingsoppgave00.pdf".**
